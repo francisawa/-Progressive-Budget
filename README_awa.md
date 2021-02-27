@@ -30,7 +30,6 @@ THEN that will be shown on the page, and added to their transaction history when
 
   * Application was tested on local host 3000 worked as required
 
-
 * App Deployed with Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
 
 ## Submission on BCS

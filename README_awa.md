@@ -1,8 +1,7 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
-https://progressive-budget-awa.herokuapp.com/
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+Added functionality to existing Budget Tracker application to allow for offline access and functionality.
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+Users are are able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they can populate the total when brought back online.
 
 Offline Functionality:
 
@@ -29,13 +28,13 @@ GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
-  * Application tested on local host 3000 worked as required
+  * Application was tested on local host 3000 worked as required
 
 
 * App Deployed with Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
 
 ## Submission on BCS
-*Heroku link
-* https://progressive-budget-awa.herokuapp.com/
-*Github repository link
-https://github.com/francisawa/Progressive-Budget
+* Heroku link
+ https://progressive-budget-awa.herokuapp.com/
+* Github repository link
+ https://github.com/francisawa/Progressive-Budget

@@ -1,15 +1,18 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
-Added functionality to existing Budget Tracker application to allow for offline access and functionality.
+##To Run App 
+npm start
 
-Users are are able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they can populate the total when brought back online.
+#Added functionality to existing Budget Tracker application to allow for offline access and functionality.
 
-Offline Functionality:
+#Users are are able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they can populate the total when brought back online.
+
+##Offline Functionality:
 
   * App enters deposits offline on local host 3000
 
-  * App enter expenses offline
+  * App enters expenses offline
 
-When brought back online:
+##When brought back online:
 
   * App adds Offline entries to a tracker.
 

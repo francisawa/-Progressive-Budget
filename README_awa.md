@@ -32,11 +32,13 @@ THEN that will be shown on the page, and added to their transaction history when
 
 * App Deployed with Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
 ##IMAGES
-<img src="/images/ProgresBgt.PNG">
-<img src="/images/ProgresBgt1.PNG">
-<img src="/images/ProgresBgt3.PNG">
-<img src="/images/bget.png">
-<img src="/images/bgtchart.PNG">
+<img src="/images/ProgresBgt.PNG" width ="100">
+<img src="/images/ProgresBgt1.PNG" width ="100">
+<img src="/images/ProgresBgt3.PNG" width ="100">
+<img src="/images/bget.png" width ="100">
+<img src="/images/bgtchart.PNG" width ="100">
+<img src="/images/progressive Bgt.PNG" width ="100">
+<img src="/images/progressive2 Bgt.png" width ="100">
 
 
 
